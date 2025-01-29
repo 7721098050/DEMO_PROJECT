@@ -21,6 +21,12 @@ def divide(a, b):
 def find_max(a, b):
     """Returns the maximum of two numbers."""
     return max(a, b)
+    
+
+  def find_min(a, b):
+    """Returns the minumum of two numbers."""
+    return min(a, b)  
+
 
 # Main function to test the calculator
 if __name__ == "__main__":
